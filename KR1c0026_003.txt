@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩地理攷
-#+DATE: 2015-09-23 09:36:43
-#+PROPERTY: JUAN 3
+#+DATE: 2015-08-24 22:05:13.943614
+#+PROPERTY: ID KR1c0026
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三
 <pb:KR1c0026_WYG_003-1a>¶
 欽定四庫全書¶
 　詩地理攷卷三　　　　　宋　王應麟　撰¶
@@ -398,4 +400,3 @@
 　¶
 　¶
 　詩地理攷卷三¶
-
